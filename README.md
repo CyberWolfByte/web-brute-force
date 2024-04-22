@@ -129,4 +129,4 @@ If you have an idea for an improvement or if you're interested in collaborating,
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/CyberWolfByte/sha256-crack/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/CyberWolfByte/web-brute-force/blob/main/LICENSE) file for details.
