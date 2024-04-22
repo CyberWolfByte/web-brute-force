@@ -97,7 +97,7 @@ To use the Web Login Brute Force script against the WebGoat application, follow 
 2. **Run the Brute Force Script**:
     
     ```bash
-    python web-brute-force.py
+    python3 web-brute-force.py
     ```
     
 3. **Monitor Output**: Watch the terminal for real-time feedback on login attempts. The script will report success if it finds a valid username-password combination.
